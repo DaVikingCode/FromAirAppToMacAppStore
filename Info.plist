@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>CFBundleAllowMixedLocalizations</key>
+        <true/>
+        <key>CFBundlePackageType</key>
+        <string>APPL</string>
+        <key>CFBundleInfoDictionaryVersion</key>
+        <string>6.0</string>
+        <key>LSMinimumSystemVersion</key>
+        <string>10.6</string>
+        <key>LSRequiresCarbon</key>
+        <true/>
+        <key>CFBundleIdentifier</key>
+        <string>com.company.SillyFamilyDesktop</string>
+        <key>LSApplicationCategoryType</key>
+        <string>public.app-category.family-games</string>
+        <key>CFBundleGetInfoString</key>
+        <string>1.1,</string>
+        <key>CFBundleShortVersionString</key>
+        <string>1.1</string>
+        <key>NSHumanReadableCopyright</key>
+        <string/>
+        <key>CFBundleExecutable</key>
+        <string>SillyFamilyDesktop</string>
+        <key>NSHighResolutionCapable</key>
+        <false/>
+        <key>CFBundleIconFile</key>
+        <string>Icon.icns</string>
+        <key>CFBundleLocalizations</key>
+        <array>
+            <string>en</string>
+            <string>es</string>
+            <string>fr</string>
+            <string>it</string>
+        </array>
+    </dict>
+</plist>
