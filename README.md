@@ -9,4 +9,4 @@ Before running the script, be sure to add `<key>LSApplicationCategoryType</key>`
 You will also have to generate an *icns* file. Replace files inside *myicon.iconset* folder and run `iconutil -c icns -o Icon.icns myicon.iconset` to create your icon.
 
 Now you can run the script:
-`sh FromAirToMacAppStore.sh SillyFamilyDesktop "3rd Party Mac Developer Application: DaVikingCode (XXXXXXXXXX)" "3rd Party Mac Developer Installer: DaVikingCode (XXXXXXXXXX)"`
+`sh FromAirToMacAppStore.sh "SillyFamilyDesktop" "3rd Party Mac Developer Application: DaVikingCode (XXXXXXXXXX)" "3rd Party Mac Developer Installer: DaVikingCode (XXXXXXXXXX)"`
